@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1580486526 source:c:\users\zouheir\desktop\mp_systeme_de_fichiers _sda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<wchar.h>
+	<string.h>
+	<stdint.h>
+	<windows.h>
+	<conio.h>
+
